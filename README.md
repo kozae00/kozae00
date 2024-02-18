@@ -8,7 +8,7 @@
 ##### Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/512BD4?style=flat-square&logo=csharp&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-512BD4?style=flat-square&logo=csharp&logoColor=white"/></a>
 
 ##### Tools
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/></a>
