@@ -5,4 +5,5 @@
 👋 Hi there! I'm a newbie who wants to be an awesome developer.🔥🔥🔥
 
 ### 💪Skills
-##### Platforms & Languages
+##### Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
