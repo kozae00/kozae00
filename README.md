@@ -14,5 +14,6 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
 
+### Stat⭐
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kozae00&show_icons=true&theme=radical)
 
