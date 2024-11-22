@@ -45,7 +45,10 @@
 
 | Type             | Date       | Contents                                  | Organization       |
 |------------------|------------|------------------------------------------|--------------------|
-| Conference       | 2024.04    |                                          | Sookmyung Women's University |
-| Intern           |            |                                          |                    |
+| Conference       | 2024.06    | Detecting Negative Emotions in Conversations Between Teachers and Parents: Application of an Emotion Model Based on Chat Data | IEIE |
+| Conference       | 2024.07    | Feature Matching of Lens Distorted Image based on Partitioned Regions of an Image | MITA |
+| 2024 Hacker-ground | 2024.08  | Utilizing Azure Cloud's AI Services and OpenAI | MS&KNU |
+| 2024 Media Newtech Fair | 2024.11  | SentimentFlow: AI 기반 리뷰 분석 솔루션 | RAPA&KNU |
+| Paper            | 2024.11    | Enhancement of Region of Interest Using Superpixel-Based Feature Matching | KMMS |
 
 
