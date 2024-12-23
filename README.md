@@ -50,6 +50,6 @@
 | 2024 Hacker-ground | 2024.08  | Utilizing Azure Cloud's AI Services and OpenAI | MS&KNU |
 | 2024 Media Newtech Fair | 2024.11  | SentimentFlow: AI 기반 리뷰 분석 솔루션 | RAPA&KNU |
 | Paper            | 2024.11    | Enhancement of Region of Interest Using Superpixel-Based Feature Matching | KMMS |
-| K-Digital Training |     | 클라우드 기반 백엔드 엔지니어링 데브코스 | Programmers |
+| K-Digital Training |     | 클라우드 기반 백엔드 엔지니어링 데브코스 4기 | Programmers |
 
 
