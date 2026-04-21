@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:87CEFA,100:ADD8E6&height=300&section=header&text=Jaehyun-Ko&fontSize=90&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:87CEFA,100:ADD8E6&height=300&section=header&text=Kozae&fontSize=90&fontColor=FFFFFF)
 
 ---
 
