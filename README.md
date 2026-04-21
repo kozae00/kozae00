@@ -23,7 +23,7 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.notion.so/Jaehyun-Ko-06614182018948449d910f02d629f463?pvs=4" target="_blank">
+  <a href="https://www.notion.so/Kozae-06614182018948449d910f02d629f463?pvs=4" target="_blank">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
   </a>
   <a href="https://mail.google.com/" target="_blank">
